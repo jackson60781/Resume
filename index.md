@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Markdown Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+ <body>
 @REDACTED=false
 @NAME=Jackson Wang||Hidden Name
 @EMAIL=jw3744@drexel.edu||fake@email.com
@@ -9,7 +17,6 @@
 # {NAME}
 
 <div class="section headerInfo">
-
  
 - {EMAIL}
 - {PHONE}
@@ -84,3 +91,5 @@ Adgate Media and Offertoro
 ### Dean's List <span class="spacer"></span> 2020- Present
 
 ### A. J. Drexel Scholarship <span class="spacer"></span> 2020- Present
+ </body>
+ </html>
