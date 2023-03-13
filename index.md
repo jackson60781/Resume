@@ -1,8 +1,8 @@
 
-@NAME=Jackson Wang
-@LOCATION=Philadelphia, PA
-@WEBSITE=github.com/jackson60781
-@LINKEDIN=linkedin.com/in/jackson-wang-688736206/
+#Jackson Wang
+#Philadelphia, PA
+#github.com/jackson60781
+#linkedin.com/in/jackson-wang-688736206/
 
 
 ## Experience
