@@ -5,13 +5,15 @@
 @LOCATION=Philadelphia, PA
 @WEBSITE=github.com/jackson60781||example.com
 @LINKEDIN=linkedin.com/in/jackson-wang-688736206/
+<head>
+ <link rel="stylesheet" type="text/css" href="style.css">
+ <link rel="stylesheet" type="text/css" href="settings.css">
+ </head>
 
 # {NAME}
 
 <div class="section headerInfo">
-<link rel="stylesheet" type="text/css" href="style.css">
- <link rel="stylesheet" type="text/css" href="settings.css">
- 
+
  
 - {EMAIL}
 - {PHONE}
