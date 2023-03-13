@@ -1,22 +1,9 @@
 
-@REDACTED=false
-@NAME=Jackson Wang||Hidden Name
-@EMAIL=jw3744@drexel.edu||fake@email.com
-@PHONE=(215) 543-2106||(555) 123-5555
+@NAME=Jackson Wang
 @LOCATION=Philadelphia, PA
-@WEBSITE=github.com/jackson60781||example.com
+@WEBSITE=github.com/jackson60781
 @LINKEDIN=linkedin.com/in/jackson-wang-688736206/
 
-# {NAME}
-
-<div class="section headerInfo">
- 
-- {EMAIL}
-- {PHONE}
-- {LOCATION}
-- [Github](https://{WEBSITE})
-- [LinkedIn](https://{LINKEDIN})
-</div>
 
 ## Experience
 
